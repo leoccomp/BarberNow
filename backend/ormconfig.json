@@ -4,7 +4,7 @@
     "port": 5434,
     "username": "postgres",
     "password": "docker",
-    "database": "gostack_barbernow",
+    "database": "barbernow",
     "entities": [
         "./src/models/*.ts"
     ],
