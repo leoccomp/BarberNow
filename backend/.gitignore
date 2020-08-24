@@ -11,6 +11,10 @@
 # production
 /build
 
+# temp
+/temp/*
+!/temp/.gitkeep
+
 # misc
 .DS_Store
 .env.local
